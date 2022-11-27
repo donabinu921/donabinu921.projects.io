@@ -1,0 +1,22 @@
+body{
+  background: url("https://wallpapercrafter.com/th800/229070-a-half-closed-macbook-on-a-reflective-surfacehalf-.jpg") no-repeat center center fixed;
+  background-size: cover;
+  margin: 0px;
+}
+
+.text{
+  text-align: center;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+  /*-webkit-text-stroke: 1px gray;*/
+  text-shadow: 2px 2px gray;
+}
+
+.button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
